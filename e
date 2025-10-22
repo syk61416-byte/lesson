@@ -1,2 +1,1 @@
-local conflict
-remote conflict
+new branch test
